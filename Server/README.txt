@@ -19,6 +19,8 @@ Makefile        : the makefile for auto compilation of the code
 
 README.txt      : this file
 
+
+
 Compilation:
 -----------
 Open a terminal and from the project folder type the following command
